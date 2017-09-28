@@ -1,6 +1,6 @@
 {
   "name": "jsonarray_minimizer",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "it minimize the size of json object or array by removing invalid values like undefined, null, empty array [] and empty json object {}",
   "main": "index.js",
   "scripts": {
