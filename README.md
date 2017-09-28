@@ -7,6 +7,10 @@ It minimize the size of json object or array by removing invalid values like und
 
   `npm install jsonarray_minimizer`
 
+## Application
+
+    It minimize the size of json object or array by removing invalid values like undefined, null, empty array [] and empty json object {} AND RETURN THE NEW FILTERED JSONOBEJCT OR ARRAY
+    
 ## Usage
 
     var ja_minimizer = require('jsonarray_minimizer');
