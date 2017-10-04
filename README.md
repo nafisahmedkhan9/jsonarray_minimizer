@@ -9,7 +9,8 @@ It minimize the size of json object or array by removing invalid values like und
 
 ## Application
 
-    It minimize the size of json object or array by removing invalid values like undefined, null, empty array [] and empty json object {} AND RETURN THE NEW FILTERED JSONOBEJCT OR ARRAY
+    It minimize the size of json object or array by removing invalid values like undefined, null, empty array []
+    and empty json object {} AND RETURN THE NEW FILTERED JSONOBEJCT OR ARRAY
     
 ## Usage
 
@@ -47,7 +48,15 @@ It minimize the size of json object or array by removing invalid values like und
 ## Output
 
   output : 
-    {"a":{"a":"abc","c":{"a":"a","b":{"a":{"a":{"d":"d"}}}}},"b":[1,2],"c":"nafis","j":"nafis ahmed","k":["abc",["a","b"]],"l":{"a":["av"],"d":{"a":"a"}}}
+
+    {
+        "a":{"a":"abc","c":{"a":"a","b":{"a":{"a":{"d":"d"}}}}},
+        "b":[1,2],
+        "c":"nafis",
+        "j":"nafis ahmed",
+        "k":["abc",["a","b"]],
+        "l":{"a":["av"],"d":{"a":"a"}}
+    }
 
 ## Contributing
 
