@@ -1,13 +1,13 @@
 JSON or Array minimizer
 =========
 
-It minimize the size of json object or array by removing invalid values like undefined, null, empty array [] and empty json object {} AND RETURN THE NEW FILTERED JSONOBEJCT OR ARRAY
+It minimize the size of json object or array by removing invalid values like undefined, null, empty array [] and empty json object {} and return the new filtered JSONObject or array
 
 ## Installation
 
   `npm install jsonarray_minimizer`
 
-## Application
+## Banefit
 
     It minimize the size of json object or array by removing invalid values like undefined, null, empty array []
     and empty json object {} AND RETURN THE NEW FILTERED JSONOBEJCT OR ARRAY
